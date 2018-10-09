@@ -1,0 +1,7 @@
+C:\Users\bvalentic\source\repos\GrandCircusLab3\GrandCircusLab3\bin\Debug\GrandCircusLab3.exe.config
+C:\Users\bvalentic\source\repos\GrandCircusLab3\GrandCircusLab3\bin\Debug\GrandCircusLab3.exe
+C:\Users\bvalentic\source\repos\GrandCircusLab3\GrandCircusLab3\bin\Debug\GrandCircusLab3.pdb
+C:\Users\bvalentic\source\repos\GrandCircusLab3\GrandCircusLab3\obj\Debug\GrandCircusLab3.csprojAssemblyReference.cache
+C:\Users\bvalentic\source\repos\GrandCircusLab3\GrandCircusLab3\obj\Debug\GrandCircusLab3.csproj.CoreCompileInputs.cache
+C:\Users\bvalentic\source\repos\GrandCircusLab3\GrandCircusLab3\obj\Debug\GrandCircusLab3.exe
+C:\Users\bvalentic\source\repos\GrandCircusLab3\GrandCircusLab3\obj\Debug\GrandCircusLab3.pdb
